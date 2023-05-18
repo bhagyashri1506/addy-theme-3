@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/addy-theme-3/precache-manifest.c7c2bbb5cc5411c9283aa9de28e55494.js"
+  "/addy-theme-3/precache-manifest.a049f0801fd080cb90a3b6d6da225bc8.js"
 );
 
 workbox.clientsClaim();

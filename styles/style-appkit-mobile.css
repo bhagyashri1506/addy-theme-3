@@ -1528,8 +1528,8 @@
 .t3 .page-title {
   display: flex;
   transition: all 300ms ease;
-  margin-top: 23px;
-  margin-bottom: 30px;
+  /* margin-top: 23px;
+  margin-bottom: 30px; */
 }
 
 .t3 .page-title h1 {
@@ -2795,7 +2795,7 @@
 }
 
 .t3 .btn:hover {
-  opacity: 0.9;
+  /* opacity: 0.9; */
   color: #FFF;
 }
 
@@ -4759,7 +4759,7 @@
 }
 .t3 .input-style input{
   font-size: 15px;
-  color: white;
+  color: black;
 }
 
 .t3 .input-style select,
